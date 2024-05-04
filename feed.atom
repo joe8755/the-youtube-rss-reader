@@ -1,8 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-04T10:48:22.563Z</id>
+    <id>urn:2024-05-04T10:50:06.527Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-04T10:48:22.563Z</updated>
+    <updated>2024-05-04T10:50:06.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 24.04 on the Raspberry Pi - How to, Setup, and Demo]]></title>
+        <id>https://www.youtube.com/watch?v=fgonBE4KWGw</id>
+        <link href="https://www.youtube.com/watch?v=fgonBE4KWGw"/>
+        <updated>2024-04-30T12:24:30.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 24.04 LTS Review - Noble Numbat Overview]]></title>
+        <id>https://www.youtube.com/watch?v=vlr1aA3h_VM</id>
+        <link href="https://www.youtube.com/watch?v=vlr1aA3h_VM"/>
+        <updated>2024-04-26T13:01:12.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Arm-based Laptop Processor from Qualcomm - The Snapdragon X Plus - Faster than the Apple M3!]]></title>
+        <id>https://www.youtube.com/watch?v=-rTdyK6Uodk</id>
+        <link href="https://www.youtube.com/watch?v=-rTdyK6Uodk"/>
+        <updated>2024-04-24T13:00:00.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run LLAMA 3 on your PC or Raspberry Pi 5]]></title>
+        <id>https://www.youtube.com/watch?v=pevdZpHD9F8</id>
+        <link href="https://www.youtube.com/watch?v=pevdZpHD9F8"/>
+        <updated>2024-04-23T10:19:15.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Floating Point Numbers - This is Where Things Get Weird!]]></title>
+        <id>https://www.youtube.com/watch?v=tW_iSxDgVow</id>
+        <link href="https://www.youtube.com/watch?v=tW_iSxDgVow"/>
+        <updated>2024-04-19T13:49:18.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed Point Decimal Numbers - Including Fixed Point Arithmetic]]></title>
+        <id>https://www.youtube.com/watch?v=gdI34n5YNIQ</id>
+        <link href="https://www.youtube.com/watch?v=gdI34n5YNIQ"/>
+        <updated>2024-04-17T12:06:13.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Udio: The Insanely Good FREE AI Music Maker!]]></title>
+        <id>https://www.youtube.com/watch?v=5ZBM-JzQzdY</id>
+        <link href="https://www.youtube.com/watch?v=5ZBM-JzQzdY"/>
+        <updated>2024-04-15T13:00:11.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Google Axion Processor? Google's new Arm-based Processor!]]></title>
+        <id>https://www.youtube.com/watch?v=P4c7P-QnHgw</id>
+        <link href="https://www.youtube.com/watch?v=P4c7P-QnHgw"/>
+        <updated>2024-04-10T14:01:32.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do QR Codes Work? Features, Format, Error Correction, and More!]]></title>
+        <id>https://www.youtube.com/watch?v=Qb4wq2auXXk</id>
+        <link href="https://www.youtube.com/watch?v=Qb4wq2auXXk"/>
+        <updated>2024-04-09T14:34:27.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
 </feed>

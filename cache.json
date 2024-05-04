@@ -1,4 +1,108 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Gary Explains",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRjSO-juFtngAeJGJRMdIZw",
+      "siteUrl": "https://www.youtube.com/channel/UCRjSO-juFtngAeJGJRMdIZw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fgonBE4KWGw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fgonBE4KWGw",
+          "publishedOn": "2024-04-30T12:24:30.000Z",
+          "wordCount": null,
+          "title": "Ubuntu 24.04 on the Raspberry Pi - How to, Setup, and Demo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vlr1aA3h_VM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vlr1aA3h_VM",
+          "publishedOn": "2024-04-26T13:01:12.000Z",
+          "wordCount": null,
+          "title": "Ubuntu 24.04 LTS Review - Noble Numbat Overview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-rTdyK6Uodk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-rTdyK6Uodk",
+          "publishedOn": "2024-04-24T13:00:00.000Z",
+          "wordCount": null,
+          "title": "New Arm-based Laptop Processor from Qualcomm - The Snapdragon X Plus - Faster than the Apple M3!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pevdZpHD9F8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pevdZpHD9F8",
+          "publishedOn": "2024-04-23T10:19:15.000Z",
+          "wordCount": null,
+          "title": "How to Run LLAMA 3 on your PC or Raspberry Pi 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tW_iSxDgVow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tW_iSxDgVow",
+          "publishedOn": "2024-04-19T13:49:18.000Z",
+          "wordCount": null,
+          "title": "Floating Point Numbers - This is Where Things Get Weird!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gdI34n5YNIQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gdI34n5YNIQ",
+          "publishedOn": "2024-04-17T12:06:13.000Z",
+          "wordCount": null,
+          "title": "Fixed Point Decimal Numbers - Including Fixed Point Arithmetic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5ZBM-JzQzdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5ZBM-JzQzdY",
+          "publishedOn": "2024-04-15T13:00:11.000Z",
+          "wordCount": null,
+          "title": "Udio: The Insanely Good FREE AI Music Maker!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=P4c7P-QnHgw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P4c7P-QnHgw",
+          "publishedOn": "2024-04-10T14:01:32.000Z",
+          "wordCount": null,
+          "title": "What is the Google Axion Processor? Google's new Arm-based Processor!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Qb4wq2auXXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qb4wq2auXXk",
+          "publishedOn": "2024-04-09T14:34:27.000Z",
+          "wordCount": null,
+          "title": "How do QR Codes Work? Features, Format, Error Correction, and More!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "LiveOverflow",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w",
+      "siteUrl": "https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }
