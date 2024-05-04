@@ -4,11 +4,21 @@
 #########################
 
 cacheUrl: https://joe8755.github.io/the-youtube-rss-reader/cache.json
-cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
+cacheMaxDays: 180 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
 sources:
-  #- href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  #- href: https://css-tricks.com/feed/
-  #- href: https://www.smashingmagazine.com/feed/
-  #- href: https://www.freecodecamp.org/news/rss/
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCRjSO-juFtngAeJGJRMdIZw # Gary Explains
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w # LiveOverflow
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw # Linus Tech Tips
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w # Snazzy Labs
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-W1KE9EYfdxhL6S4twUNw # The Cherno
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCOUrdmzTUEYtyb2-xypZPJw # 纳豆奶奶
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC2-_WWPT_124iN6jiym4fOw # Asian Boss
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCBY6NwU6OpYQiPYR1urdF0g # 喬瑟夫 ChillSeph
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC4c-wTOqEID-_vH4MhNs06w # 巴哈姆特電玩瘋
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCLgGLSFMZQB8c0WGcwE49Gw # Gamker攻壳官方频道
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC1r3izmM5-Pf1NT55Yo1alA # 嘉嘉老師GO
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCKPflKAE2Y1tm8VSi32iboQ # 老孫聊遊戲
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCMUnInmOkrWN4gof9KlhNmQ # 老高與小茉 Mr and Mrs Gao
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCAn8NrZ-J4CRfwodajqFYoQ # BotezLive
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC0SJCeL0QG4BH_KQALjQE-Q # BBK Network
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ULnkwvyofZ_sWrzRpyvrg # KiniTV
