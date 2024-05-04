@@ -1,0 +1,362 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=377733",
+          "author": "Chris DeMars",
+          "description": "This is the 3rd post in a small series we did on form accessibility. If you missed the second post, check out “Managing User Focus with :focus-visible“. In this post we are going to look at using a …\nDemystifying Screen Readers: Accessible Forms & Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/demystifying-screen-readers-accessible-forms-best-practices/",
+          "publishedOn": "2024-04-19T14:26:47.000Z",
+          "wordCount": 3206,
+          "title": "Demystifying Screen Readers: Accessible Forms & Best Practices",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377733"
+        },
+        {
+          "id": "https://css-tricks.com/?p=377702",
+          "author": "Chris DeMars",
+          "description": "This is going to be the 2nd post in a small series we are doing on form accessibility. If you missed the first post, check out Accessible Forms with Pseudo Classes. In this post we are going to look …\nManaging User Focus with :focus-visible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/managing-user-focus-with-focus-visible/",
+          "publishedOn": "2024-04-05T22:13:47.000Z",
+          "wordCount": 2130,
+          "title": "Managing User Focus with :focus-visible",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377702"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
+          "author": "hello@smashingmagazine.com (Amit Sheen)",
+          "description": "Amit Sheen demonstrates using `:has()` to apply styles conditionally when a certain `` in a `` element is chosen by the user and how we gain even more conditional styling capabilities when chaining `:has()` with other pseudo-classes, such as `:not()` — no JavaScript necessary.",
+          "link": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
+          "publishedOn": "2024-05-02T10:00:00.000Z",
+          "wordCount": 3804,
+          "title": "Combining CSS :has() And HTML &lt;select&gt; For Greater Conditional Styling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/",
+          "publishedOn": "2024-04-30T13:00:00.000Z",
+          "wordCount": 5046,
+          "title": "Longing For May (2024 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/",
+          "author": "hello@smashingmagazine.com (Yaakov Karda)",
+          "description": "Business acquisitions are common but often shrouded in mystery because they happen behind closed doors. In this article, Yaakov details the story of his company and the journey it took him on, shedding light on the process of selling a business and what he learned from the experience.",
+          "link": "https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/",
+          "publishedOn": "2024-04-29T15:00:00.000Z",
+          "wordCount": 5719,
+          "title": "Lessons Learned After Selling My Startup",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/end-of-free-tier/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Free-tier pricing is a common marketing strategy. “Free” gets people in the door and allows them to settle in and see how things work. But, as Juan Diego Rodriguez explains, the practice of free *tiers* is often conflated with free *trials*. And while the distinction may be nuanced, the consequences of sunsetting free-tier pricing may be huge.",
+          "link": "https://smashingmagazine.com/2024/04/end-of-free-tier/",
+          "publishedOn": "2024-04-26T08:00:00.000Z",
+          "wordCount": 5555,
+          "title": "The End Of The Free Tier",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/end-of-free-tier/end-of-free-tier.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/end-of-free-tier/end-of-free-tier.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
+          "author": "hello@smashingmagazine.com (Michele Williams)",
+          "description": "Conducting UX research that includes participants with a variety of disabilities is vital to building inclusive technology, but most prototypes used for testing are inaccessible. Rather than continuing to leave out feedback from disabled consumers, which ultimately leads to exclusive technology, researchers must get creative in their workarounds and be relentless in their efforts.",
+          "link": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
+          "publishedOn": "2024-04-25T12:00:00.000Z",
+          "wordCount": 6428,
+          "title": "Conducting Accessibility Research In An Inaccessible Ecosystem",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/conducting-accessibility-research-inaccessible-ecosystem/conducting-accessibility-research-inaccessible-ecosystem.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/conducting-accessibility-research-inaccessible-ecosystem/conducting-accessibility-research-inaccessible-ecosystem.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
+          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
+          "description": "This article illustrates how AI can be leveraged to build tools that can be inclusive with a little bit of an additional effort.",
+          "link": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
+          "publishedOn": "2024-04-24T15:00:00.000Z",
+          "wordCount": 5712,
+          "title": "Using AI For Neurodiversity And Building Inclusive Tools",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-for-neurodiversity/ai-neurodiversity-building-inclusive-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-for-neurodiversity/ai-neurodiversity-building-inclusive-tools.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/f-shape-pattern-how-users-read/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Scrolling, scanning, skipping: How do users consume content online? Here’s what you need to know about reading behavior and design strategies to prevent harmful scanning patterns. An upcoming part of Smart Interface Design Patterns.",
+          "link": "https://smashingmagazine.com/2024/04/f-shape-pattern-how-users-read/",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 3722,
+          "title": "F-Shape Pattern And How Users Read",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/f-shape-pattern-how-users-read/f-shape-pattern-how-users-read.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/f-shape-pattern-how-users-read/f-shape-pattern-how-users-read.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/how-work-graphql-wordpress-2024/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "What options do we have for integrating GraphQL with WordPress in 2024? Leonardo Losoviz describes the developments that have taken place in this space over the last three years.",
+          "link": "https://smashingmagazine.com/2024/04/how-work-graphql-wordpress-2024/",
+          "publishedOn": "2024-04-19T10:00:00.000Z",
+          "wordCount": 4808,
+          "title": "How To Work With GraphQL In WordPress In 2024",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-work-graphql-wordpress-2024/how-work-graphql-wordpress-2024.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-work-graphql-wordpress-2024/how-work-graphql-wordpress-2024.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
+          "author": "hello@smashingmagazine.com (Alexis Kypridemos)",
+          "description": "What do you do when you need to convert plain text into formatted HTML? Perhaps you reach for Markdown or manually write in the element tags yourself. Or maybe you have one or two of the dozens of online tools that will do it for you. In this tutorial, Alexis Kypridemos picks those tools apart and details the steps for how we can do it ourselves with a little vanilla HTML, CSS, and JavaScript.",
+          "link": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
+          "publishedOn": "2024-04-17T13:00:00.000Z",
+          "wordCount": 5861,
+          "title": "Converting Plain Text To Encoded HTML With Vanilla JavaScript",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/converting-text-encoded-html-vanilla-javascript/converting-text-encoded-html-vanilla-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/converting-text-encoded-html-vanilla-javascript/converting-text-encoded-html-vanilla-javascript.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "description": "The three Core Web Vitals metrics don’t only tell you how visitors experience your website but also impact your Google search result rankings. In this article, we’ll look at what Core Web Vitals are, how they are measured, and how you can use DebugBear to monitor them continuously.",
+          "link": "https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/",
+          "publishedOn": "2024-04-16T10:00:00.000Z",
+          "wordCount": 3888,
+          "title": "How To Monitor And Optimize Google Core Web Vitals",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/monitor-optimize-google-core-web-vitals/monitor-optimize-google-core-web-vitals.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/monitor-optimize-google-core-web-vitals/monitor-optimize-google-core-web-vitals.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "Creating 3D effects in CSS isn’t an entirely new concept, but typical approaches use additional elements in the markup and pseudo-elements in the styles to pull it off. Temani Afif applies 3D effects and sliding transitions to a single `` using clever CSS techniques that demonstrate advanced, modern styling practices.",
+          "link": "https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/",
+          "publishedOn": "2024-04-12T18:00:00.000Z",
+          "wordCount": 5343,
+          "title": "Sliding 3D Image Frames In CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sliding-3d-image-frames-css/sliding-3d-image-frames-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sliding-3d-image-frames-css/sliding-3d-image-frames-css.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/penpot-css-grid-layout-designing-superpowers/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let's explore Penpot’s latest feature, CSS Grid Layout. Penpot’s latest release is about efficiency and so much more. It gives designers superpowers and a better place at the table. Excited? Let’s take a look at it together.",
+          "link": "https://smashingmagazine.com/2024/04/penpot-css-grid-layout-designing-superpowers/",
+          "publishedOn": "2024-04-11T08:00:00.000Z",
+          "wordCount": 4037,
+          "title": "Penpot’s CSS Grid Layout: Designing With Superpowers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/penpot-css-grid-layout-designing-superpowers/penpot-css-grid-layout-designing-superpowers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/penpot-css-grid-layout-designing-superpowers/penpot-css-grid-layout-designing-superpowers.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/applying-principles-communication-ux-research/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "Victor Yocco reviews the components of the Transactional Model of communication, explaining how we might apply this framework to preparing, conducting, and analysing our UX research. You will understand how many UX research best practices align with the model and get an example of a tool for tracking alignment.",
+          "link": "https://smashingmagazine.com/2024/04/applying-principles-communication-ux-research/",
+          "publishedOn": "2024-04-09T10:00:00.000Z",
+          "wordCount": 8682,
+          "title": "Connecting With Users: Applying Principles Of Communication To UX Research",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/applying-principles-communication-ux-research/applying-principles-communication-ux-research.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/applying-principles-communication-ux-research/applying-principles-communication-ux-research.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "What can we do to make a mobile app better? What subsidiary features are worth providing for our users? I have some ideas. You might, too. So, let’s compare our notes. Without any prescriptions attached, here are seven features I believe can palpably improve a user’s experience with a mobile app.",
+          "link": "https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/",
+          "publishedOn": "2024-04-05T12:00:00.000Z",
+          "wordCount": 4902,
+          "title": "The Things Users Would Appreciate In Mobile Apps",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/things-users-would-appreciate-mobile-apps/things-users-would-appreciate-mobile-apps.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/things-users-would-appreciate-mobile-apps/things-users-would-appreciate-mobile-apps.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/react-usereducer-hook/",
+          "author": "Timothy Olanrewaju",
+          "description": "In this article, we'll take a deep look at the useReducer hook in React. It can look confusing, especially if you are coming across the hook for the first time. This article breaks down the useReducer hook concept into understandable bits with both code and real-world examples to enable you",
+          "link": "https://www.freecodecamp.org/news/react-usereducer-hook/",
+          "publishedOn": "2024-05-03T17:48:03.000Z",
+          "wordCount": 2089,
+          "title": "How to Use the useReducer Hook in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Introduction-to-useReducer-Hook.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/from-construction-worker-to-teaching-millions-of-developers-with-john-smilga-podcast-122/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview prolific programming teacher John Smilga. John grew up in the Soviet Union. He worked construction for 5 years before becoming a developer. Today he has taught millions of fellow devs through his man...",
+          "link": "https://www.freecodecamp.org/news/from-construction-worker-to-teaching-millions-of-developers-with-john-smilga-podcast-122/",
+          "publishedOn": "2024-05-03T16:07:34.000Z",
+          "wordCount": 919,
+          "title": "From Construction Worker to Teaching Millions of Developers with John Smilga [Podcast #122]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714752404894/d2bae882-1832-4ee8-9325-0b901b8d833e.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/run-sql-like-queries-on-cplusplus-files/",
+          "author": "Amr Hesham",
+          "description": "Hello everyone! I'm a Software engineer who's interested in low-level programming, compilers, and tool development. At the end of 2023, I published my first article on freeCodeCamp about how I created a SQL-like Language to run queries on local Git repositories [/news/gql-design-and-implementation/]. If you want a bit more context, give",
+          "link": "https://www.freecodecamp.org/news/run-sql-like-queries-on-cplusplus-files/",
+          "publishedOn": "2024-05-02T19:35:48.000Z",
+          "wordCount": 2079,
+          "title": "How to Run SQL-Like Queries on C/C++ Files",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/gitql_banner-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-chess-game-with-ai-opponent/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in combining your love for chess with your passion for coding? We just posted a comprehensive video course on the freeCodeCamp.org YouTube channel that will teach you how to code your own chess game with JavaScript and Angular. Eve...",
+          "link": "https://www.freecodecamp.org/news/code-a-chess-game-with-ai-opponent/",
+          "publishedOn": "2024-05-02T18:35:21.000Z",
+          "wordCount": 937,
+          "title": "Code A Chess Game with AI Opponent",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714674906604/a3e99d6e-7b46-4bf5-8279-0f7498c70c9a.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/higher-order-functions-explained/",
+          "author": "Joan Ayebola",
+          "description": "JavaScript offers a powerful feature known as higher order functions (HOFs). These functions elevate your code by treating other functions as citizens of the language itself.  In simpler terms, HOFs can accept functions as arguments and even return functions as results. This ability allows developers to write clean, reusable, and",
+          "link": "https://www.freecodecamp.org/news/higher-order-functions-explained/",
+          "publishedOn": "2024-05-02T18:31:54.000Z",
+          "wordCount": 3038,
+          "title": "What are Higher Order Functions in JavaScript? Explained With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--7-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/",
+          "author": "Andrew Baisden",
+          "description": "In today's tutorial, you are going to learn about WebSockets and how you can use them to create interactive realtime data applications.  To illustrate just how innovative real time technologies are, we will build a chart application which automatically updates with new dynamic online data. This is going to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/",
+          "publishedOn": "2024-05-02T00:07:30.000Z",
+          "wordCount": 3388,
+          "title": "How to Build a Realtime Chart with React, HighCharts, and Pusher",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/pusher-banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-defaultdict-python/",
+          "author": "Gage Schaffer",
+          "description": "Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In",
+          "link": "https://www.freecodecamp.org/news/how-to-use-defaultdict-python/",
+          "publishedOn": "2024-05-01T21:15:48.000Z",
+          "wordCount": 1648,
+          "title": "How to Use DefaultDict in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Add-To-Your-Python-Toolbox.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-personalized-github-profile-page/",
+          "author": "Sahil Mahapatra",
+          "description": "Have you ever wanted to spruce up your GitHub profile page and make it stand out? Well, you're in luck!  With just a few simple steps, you can create a personalized GitHub profile that showcases your skills, projects, and personality. Let's dive in.  Create A New Repository Go",
+          "link": "https://www.freecodecamp.org/news/create-personalized-github-profile-page/",
+          "publishedOn": "2024-05-01T18:51:03.000Z",
+          "wordCount": 1418,
+          "title": "How to Create Your Personalized  GitHub Profile Page – GitHub Profile README Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/throttling-in-javascript/",
+          "author": "Kunal Nalawade",
+          "description": "Welcome back, fellow developers! Today, we are once again delving into JavaScript and Web Development and learning about throttling.  As a developer, making your website user-friendly is important. This goes a long way toward the product's success, and a key part of the user experience is the website's performance.",
+          "link": "https://www.freecodecamp.org/news/throttling-in-javascript/",
+          "publishedOn": "2024-05-01T15:58:59.000Z",
+          "wordCount": 2528,
+          "title": "What is Throttling in JavaScript? Explained with a Simple React Use Case",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/throttling-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-full-stack-fiverr-clone/",
+          "author": "Beau Carnes",
+          "description": "We just posted a course available now on the freeCodeCamp.org YouTube channel. This comprehensive tutorial will walk you through the process of building a Fiverr clone using a stack of cutting-edge technologies. Vuk Rosić created this course. Vuk is ...",
+          "link": "https://www.freecodecamp.org/news/code-a-full-stack-fiverr-clone/",
+          "publishedOn": "2024-05-01T15:38:30.000Z",
+          "wordCount": 958,
+          "title": "Code a Full Stack Fiverr Clone",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714577897011/346c4555-b97f-4211-ba2f-441fc584a7f4.png"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
