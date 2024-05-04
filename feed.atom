@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-04T10:50:06.527Z</id>
+    <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-04T10:50:06.527Z</updated>
+    <updated>2024-05-04T10:57:13.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
+    <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Ubuntu 24.04 on the Raspberry Pi - How to, Setup, and Demo]]></title>
         <id>https://www.youtube.com/watch?v=fgonBE4KWGw</id>
@@ -82,6 +83,60 @@
         <id>https://www.youtube.com/watch?v=Qb4wq2auXXk</id>
         <link href="https://www.youtube.com/watch?v=Qb4wq2auXXk"/>
         <updated>2024-04-09T14:34:27.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenDevin, an autonomous AI software engineer - Is Skynet coming?]]></title>
+        <id>https://www.youtube.com/watch?v=FF8uzfnZ0h8</id>
+        <link href="https://www.youtube.com/watch?v=FF8uzfnZ0h8"/>
+        <updated>2024-04-03T14:13:24.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapdragon 8s Gen 3 vs Snapdragon 8 Gen 3]]></title>
+        <id>https://www.youtube.com/watch?v=ZCP1-m9xvGk</id>
+        <link href="https://www.youtube.com/watch?v=ZCP1-m9xvGk"/>
+        <updated>2024-03-28T14:27:04.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Tensor G3 Performance per Watt]]></title>
+        <id>https://www.youtube.com/watch?v=ck4QZ67lidM</id>
+        <link href="https://www.youtube.com/watch?v=ck4QZ67lidM"/>
+        <updated>2024-03-25T13:55:02.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculate Pi on a Raspberry Pi Using the Leibniz Formula for π - Pi Day 2024]]></title>
+        <id>https://www.youtube.com/watch?v=r5wuBbmY-lk</id>
+        <link href="https://www.youtube.com/watch?v=r5wuBbmY-lk"/>
+        <updated>2024-03-14T09:00:38.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Budget-Friendly AI APIs - A Must-Watch Guide!]]></title>
+        <id>https://www.youtube.com/watch?v=0I7KtNblD9E</id>
+        <link href="https://www.youtube.com/watch?v=0I7KtNblD9E"/>
+        <updated>2024-03-07T14:13:02.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmarks Say Claude 3 is Better than GPT-4, But is It?]]></title>
+        <id>https://www.youtube.com/watch?v=kShPahySovs</id>
+        <link href="https://www.youtube.com/watch?v=kShPahySovs"/>
+        <updated>2024-03-05T12:41:18.000Z</updated>
         <author>
             <name>Gary Explains</name>
         </author>
