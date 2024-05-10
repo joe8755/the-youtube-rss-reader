@@ -2471,6 +2471,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC9ULnkwvyofZ_sWrzRpyvrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bhm4HUFhtQU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bhm4HUFhtQU",
+          "publishedOn": "2024-05-10T05:19:08.000Z",
+          "wordCount": null,
+          "title": "PRK KKB: Umat Islam wajib keluar mengundi - Hadi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IngJUVPV8cs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IngJUVPV8cs",
+          "publishedOn": "2024-05-10T05:09:53.000Z",
+          "wordCount": null,
+          "title": "KL entertainment centre hit in petrol bomb attack",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DRhhEqDFceo",
           "author": null,
           "description": "",
@@ -3765,6 +3785,163 @@
           "publishedOn": "2024-04-26T16:51:09.000Z",
           "wordCount": null,
           "title": "Social Media Damages Your Brain",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Andreas Kling",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ts8coMP645hZw9JSD3pqQ",
+      "siteUrl": "https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nWjAxNHXd_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nWjAxNHXd_8",
+          "publishedOn": "2024-05-01T21:10:11.000Z",
+          "wordCount": null,
+          "title": "SerenityOS update (April 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LBl-fa-YJFE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LBl-fa-YJFE",
+          "publishedOn": "2024-04-30T19:10:52.000Z",
+          "wordCount": null,
+          "title": "Ladybird browser update (April 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=X1TSNTVwo9E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X1TSNTVwo9E",
+          "publishedOn": "2024-04-10T08:18:38.000Z",
+          "wordCount": null,
+          "title": "2000 days of SerenityOS (Git history visualized)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zXYNUbyQ0pk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zXYNUbyQ0pk",
+          "publishedOn": "2024-04-10T07:38:05.000Z",
+          "wordCount": null,
+          "title": "CS 4560 guest lecture: Ladybird browser development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WZreup0X7qg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WZreup0X7qg",
+          "publishedOn": "2024-04-01T13:31:58.000Z",
+          "wordCount": null,
+          "title": "SerenityOS update (March 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ykaue6krDZ8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ykaue6krDZ8",
+          "publishedOn": "2024-03-31T14:15:01.000Z",
+          "wordCount": null,
+          "title": "Ladybird browser update (March 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pWFLLLUWrMQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pWFLLLUWrMQ",
+          "publishedOn": "2024-03-01T19:29:53.000Z",
+          "wordCount": null,
+          "title": "SerenityOS update (February 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dKHopzDtElY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dKHopzDtElY",
+          "publishedOn": "2024-02-29T21:46:26.000Z",
+          "wordCount": null,
+          "title": "Ladybird browser update (February 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Tp7Yu7Rlblc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tp7Yu7Rlblc",
+          "publishedOn": "2024-02-01T16:09:27.000Z",
+          "wordCount": null,
+          "title": "SerenityOS update (January 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9FAzaKPvB2k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9FAzaKPvB2k",
+          "publishedOn": "2024-01-31T18:52:04.000Z",
+          "wordCount": null,
+          "title": "Ladybird browser update (January 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZUBlEzjAZmo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZUBlEzjAZmo",
+          "publishedOn": "2024-01-01T20:36:48.000Z",
+          "wordCount": null,
+          "title": "SerenityOS update (December 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jagkQMbfqJY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jagkQMbfqJY",
+          "publishedOn": "2023-12-31T14:41:01.000Z",
+          "wordCount": null,
+          "title": "Ladybird browser update (December 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bTPkXjwdw-I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bTPkXjwdw-I",
+          "publishedOn": "2023-12-01T19:14:20.000Z",
+          "wordCount": null,
+          "title": "SerenityOS update (November 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kDaR5sYcXKQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kDaR5sYcXKQ",
+          "publishedOn": "2023-11-30T16:28:47.000Z",
+          "wordCount": null,
+          "title": "Ladybird browser update (November 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=htAbL6mBc9g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=htAbL6mBc9g",
+          "publishedOn": "2023-11-25T22:51:58.000Z",
+          "wordCount": null,
+          "title": "Browser hacking: Let's work on not sucking at Octane/zlib.js",
           "imageUrl": null
         }
       ]
