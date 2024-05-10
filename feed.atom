@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T00:40:39.011Z</updated>
+    <updated>2024-05-10T04:51:15.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[VIDEO PENUH] Pengerusi PN S'gor Azmin Ali di Ceramah Perdana PN sempena PRK KKB]]></title>
+        <id>https://www.youtube.com/watch?v=DRhhEqDFceo</id>
+        <link href="https://www.youtube.com/watch?v=DRhhEqDFceo"/>
+        <updated>2024-05-10T04:50:08.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hadi beri amaran: Jangan sampai Melayu hilang kuasa politik macam Singapura]]></title>
+        <id>https://www.youtube.com/watch?v=9mEaiZEyRCY</id>
+        <link href="https://www.youtube.com/watch?v=9mEaiZEyRCY"/>
+        <updated>2024-05-10T04:48:07.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tak logik mengaku masih ahli Bersatu lepas berucap di pentas lawan - Muhyiddin]]></title>
+        <id>https://www.youtube.com/watch?v=5HtC9vlyUhs</id>
+        <link href="https://www.youtube.com/watch?v=5HtC9vlyUhs"/>
+        <updated>2024-05-10T04:43:51.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pusat hiburan di KL terbakar dilempar bom petrol]]></title>
+        <id>https://www.youtube.com/watch?v=aBV_1hZHtHY</id>
+        <link href="https://www.youtube.com/watch?v=aBV_1hZHtHY"/>
+        <updated>2024-05-10T04:34:25.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAS spiritual leader predicts Indian backing for PN candidate in KKB]]></title>
+        <id>https://www.youtube.com/watch?v=q2QaTMKrJIo</id>
+        <link href="https://www.youtube.com/watch?v=q2QaTMKrJIo"/>
+        <updated>2024-05-10T04:32:59.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hadi warns Umno supporters of DAP's Singapore-like threat]]></title>
+        <id>https://www.youtube.com/watch?v=5YtYUCsO6xg</id>
+        <link href="https://www.youtube.com/watch?v=5YtYUCsO6xg"/>
+        <updated>2024-05-10T04:30:11.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Koreans Feel About Birth Rate Crisis | Street Interview]]></title>
+        <id>https://www.youtube.com/watch?v=7qafHvFPf2Y</id>
+        <link href="https://www.youtube.com/watch?v=7qafHvFPf2Y"/>
+        <updated>2024-05-10T04:30:02.000Z</updated>
+        <author>
+            <name>Asian Boss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[VIDEO PENUH] Setiausaha Agung DAP Anthony Loke di Ceramah Mega Perpaduan di KKB]]></title>
+        <id>https://www.youtube.com/watch?v=DdpnOXEdAYI</id>
+        <link href="https://www.youtube.com/watch?v=DdpnOXEdAYI"/>
+        <updated>2024-05-10T04:17:16.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syarikat di India lantik KJ sebagai ahli lembaga pengarah]]></title>
+        <id>https://www.youtube.com/watch?v=0lYSwRuapTE</id>
+        <link href="https://www.youtube.com/watch?v=0lYSwRuapTE"/>
+        <updated>2024-05-10T03:51:16.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[VIDEO PENUH] Menteri Besar S'gor Amirudin Shari di Ceramah Mega Perpaduan di KKB]]></title>
+        <id>https://www.youtube.com/watch?v=Kp0oXvLRbAA</id>
+        <link href="https://www.youtube.com/watch?v=Kp0oXvLRbAA"/>
+        <updated>2024-05-10T03:45:22.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pusat hiburan di KL terbakar dilempar bom petrol]]></title>
+        <id>https://www.youtube.com/watch?v=EO9W0GZnYE0</id>
+        <link href="https://www.youtube.com/watch?v=EO9W0GZnYE0"/>
+        <updated>2024-05-10T03:38:26.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entertainment outlet in KL petrol bombed, cops initiate probe]]></title>
+        <id>https://www.youtube.com/watch?v=2kNsFrLvrXs</id>
+        <link href="https://www.youtube.com/watch?v=2kNsFrLvrXs"/>
+        <updated>2024-05-10T03:33:38.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Full Speech] Selangor MB Amirudin Shari at Harapan's 'mega ceramah' in KKB]]></title>
+        <id>https://www.youtube.com/watch?v=0_Zp6ZE_88k</id>
+        <link href="https://www.youtube.com/watch?v=0_Zp6ZE_88k"/>
+        <updated>2024-05-10T03:21:46.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Full speech] Muhyiddin Yassin at PN's Grand Finale 'mega ceramah' in KKB]]></title>
+        <id>https://www.youtube.com/watch?v=QYf4Ft9gRxk</id>
+        <link href="https://www.youtube.com/watch?v=QYf4Ft9gRxk"/>
+        <updated>2024-05-10T03:15:39.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[VIDEO PENUH] Pengerusi PN Muhyiddin Yassin di Ceramah Perdana PN sempena PRK KKB]]></title>
+        <id>https://www.youtube.com/watch?v=njKLN1982C4</id>
+        <link href="https://www.youtube.com/watch?v=njKLN1982C4"/>
+        <updated>2024-05-10T03:05:02.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[VIDEO PENUH] Presiden PAS Abdul Hadi Awang di Ceramah Perdana PN sempena PRK KKB]]></title>
+        <id>https://www.youtube.com/watch?v=v_tBHyZfcdA</id>
+        <link href="https://www.youtube.com/watch?v=v_tBHyZfcdA"/>
+        <updated>2024-05-10T02:57:51.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【完整影片】哥宾星为彭小桃拉票    团结阵营为新古毛补选冲刺]]></title>
         <id>https://www.youtube.com/watch?v=feh4dhjWuVU</id>
@@ -76,6 +220,15 @@
         <updated>2024-05-09T15:44:16.000Z</updated>
         <author>
             <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Go And Rust Had A Baby]]></title>
+        <id>https://www.youtube.com/watch?v=ik-jAjYFVz0</id>
+        <link href="https://www.youtube.com/watch?v=ik-jAjYFVz0"/>
+        <updated>2024-05-09T14:50:13.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
         </author>
     </entry>
     <entry>
@@ -229,6 +382,15 @@
         <updated>2024-05-08T16:00:01.000Z</updated>
         <author>
             <name>BotezLive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite Uses ByteCode (And For Good Reason)]]></title>
+        <id>https://www.youtube.com/watch?v=tvrZ5XraB7s</id>
+        <link href="https://www.youtube.com/watch?v=tvrZ5XraB7s"/>
+        <updated>2024-05-08T15:52:27.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
         </author>
     </entry>
     <entry>
@@ -412,6 +574,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Is 2024 The Year Of Zig ?]]></title>
+        <id>https://www.youtube.com/watch?v=DucriSA8ukw</id>
+        <link href="https://www.youtube.com/watch?v=DucriSA8ukw"/>
+        <updated>2024-05-07T16:41:15.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【直播】PC《黑帝斯 2》突然就展開搶先體驗，壓倒性好評的 Roguelike 遊戲《黑帝斯》續作！]]></title>
         <id>https://www.youtube.com/watch?v=s5ORM-ZOVxc</id>
         <link href="https://www.youtube.com/watch?v=s5ORM-ZOVxc"/>
@@ -592,6 +763,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Epic Vim Macro]]></title>
+        <id>https://www.youtube.com/watch?v=W2dmrZbj-jI</id>
+        <link href="https://www.youtube.com/watch?v=W2dmrZbj-jI"/>
+        <updated>2024-05-06T18:59:52.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Private EMPTY S3 Bucket COST ME $1300]]></title>
+        <id>https://www.youtube.com/watch?v=OWggTcVgiNg</id>
+        <link href="https://www.youtube.com/watch?v=OWggTcVgiNg"/>
+        <updated>2024-05-06T18:45:38.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[卢卡斯当众被老婆教训！]]></title>
         <id>https://www.youtube.com/watch?v=80Xmgrhp1DQ</id>
         <link href="https://www.youtube.com/watch?v=80Xmgrhp1DQ"/>
@@ -769,6 +958,15 @@
         <updated>2024-05-05T15:45:00.000Z</updated>
         <author>
             <name>BotezLive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Chars - 20x Perf Improvement]]></title>
+        <id>https://www.youtube.com/watch?v=KRD5jiYUOhk</id>
+        <link href="https://www.youtube.com/watch?v=KRD5jiYUOhk"/>
+        <updated>2024-05-05T13:39:32.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
         </author>
     </entry>
     <entry>
@@ -1006,6 +1204,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Is CS Hopeless ?]]></title>
+        <id>https://www.youtube.com/watch?v=Qatdg5bJCGE</id>
+        <link href="https://www.youtube.com/watch?v=Qatdg5bJCGE"/>
+        <updated>2024-05-04T15:25:26.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Aktif, mesra dan dedikasi menjadi faktor Pang digemari penduduk KKB]]></title>
         <id>https://www.youtube.com/watch?v=c3vUcfDFUOM</id>
         <link href="https://www.youtube.com/watch?v=c3vUcfDFUOM"/>
@@ -1120,6 +1327,15 @@
         <updated>2024-05-04T04:02:04.000Z</updated>
         <author>
             <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rabbit R1 Is Just An Android App..]]></title>
+        <id>https://www.youtube.com/watch?v=ModLKm6nomk</id>
+        <link href="https://www.youtube.com/watch?v=ModLKm6nomk"/>
+        <updated>2024-05-03T18:32:45.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
         </author>
     </entry>
     <entry>
@@ -1276,6 +1492,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[125 Million Effected Accounts By FireBase Configuration]]></title>
+        <id>https://www.youtube.com/watch?v=P2gJdbb3Pec</id>
+        <link href="https://www.youtube.com/watch?v=P2gJdbb3Pec"/>
+        <updated>2024-05-02T19:08:49.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[It's embarrassing how much I like this thing.]]></title>
         <id>https://www.youtube.com/watch?v=helyO25gj_k</id>
         <link href="https://www.youtube.com/watch?v=helyO25gj_k"/>
@@ -1339,6 +1564,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Interview With A Sr JavaScript Dev | Prime Reacts]]></title>
+        <id>https://www.youtube.com/watch?v=6SNQlSRAqAY</id>
+        <link href="https://www.youtube.com/watch?v=6SNQlSRAqAY"/>
+        <updated>2024-05-01T18:38:31.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[有一顆巨大的天體隱藏在太陽系中，它可能就是傳說中的尼比魯，阿努納奇的故鄉 | 老高與小茉 Mr & Mrs Gao]]></title>
         <id>https://www.youtube.com/watch?v=BtIPrmh4jnA</id>
         <link href="https://www.youtube.com/watch?v=BtIPrmh4jnA"/>
@@ -1390,6 +1624,15 @@
         <updated>2024-05-01T09:00:22.000Z</updated>
         <author>
             <name>Asian Boss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Is Destroying Devin]]></title>
+        <id>https://www.youtube.com/watch?v=FD-yp57VbmQ</id>
+        <link href="https://www.youtube.com/watch?v=FD-yp57VbmQ"/>
+        <updated>2024-04-30T21:45:06.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
         </author>
     </entry>
     <entry>
@@ -1492,6 +1735,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Interviewed Uncle Bob]]></title>
+        <id>https://www.youtube.com/watch?v=UBXXw2JSloo</id>
+        <link href="https://www.youtube.com/watch?v=UBXXw2JSloo"/>
+        <updated>2024-04-29T22:10:20.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GOT PAIRED AGAINST MY SISTER IN A CHESS TOURNAMENT ║ $1,000 !Raffle presented by !Coinbase]]></title>
         <id>https://www.youtube.com/watch?v=gEH2SyPJntw</id>
         <link href="https://www.youtube.com/watch?v=gEH2SyPJntw"/>
@@ -1555,6 +1807,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[C Is Not A Language Anymore]]></title>
+        <id>https://www.youtube.com/watch?v=gqKyP2hXFoA</id>
+        <link href="https://www.youtube.com/watch?v=gqKyP2hXFoA"/>
+        <updated>2024-04-28T14:25:55.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[為什麼日本妹子不吃飯？ 6000萬女性背負的詛咒...]]></title>
         <id>https://www.youtube.com/watch?v=76_bLT1Q1Ks</id>
         <link href="https://www.youtube.com/watch?v=76_bLT1Q1Ks"/>
@@ -1600,6 +1861,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sqlite Is The Most Used Database]]></title>
+        <id>https://www.youtube.com/watch?v=ckpotxktdvY</id>
+        <link href="https://www.youtube.com/watch?v=ckpotxktdvY"/>
+        <updated>2024-04-27T13:53:37.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[20240427 電玩瘋手機遊戲週報]]></title>
         <id>https://www.youtube.com/watch?v=7OBrG7-jgH4</id>
         <link href="https://www.youtube.com/watch?v=7OBrG7-jgH4"/>
@@ -1642,6 +1912,15 @@
         <updated>2024-04-26T23:51:41.000Z</updated>
         <author>
             <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Media Damages Your Brain]]></title>
+        <id>https://www.youtube.com/watch?v=7fjBIPKTKQw</id>
+        <link href="https://www.youtube.com/watch?v=7fjBIPKTKQw"/>
+        <updated>2024-04-26T16:51:09.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
         </author>
     </entry>
     <entry>
