@@ -2,10 +2,199 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-11T00:40:08.695Z</updated>
+    <updated>2024-05-12T00:44:32.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You Are WRONG About 0 Based Indexing]]></title>
+        <id>https://www.youtube.com/watch?v=T7WBIPSZ87g</id>
+        <link href="https://www.youtube.com/watch?v=T7WBIPSZ87g"/>
+        <updated>2024-05-11T19:57:55.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陆兆福坦言选前不受看好，归功竞选策略奏效]]></title>
+        <id>https://www.youtube.com/watch?v=_15OIqTR7m0</id>
+        <link href="https://www.youtube.com/watch?v=_15OIqTR7m0"/>
+        <updated>2024-05-11T15:43:44.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['We accept this decision with an open heart' - PN]]></title>
+        <id>https://www.youtube.com/watch?v=SmLTDexvR2o</id>
+        <link href="https://www.youtube.com/watch?v=SmLTDexvR2o"/>
+        <updated>2024-05-11T15:24:38.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿兹敏宣称虽败犹荣，“国盟支持没有动摇”]]></title>
+        <id>https://www.youtube.com/watch?v=IwK0jRemcnA</id>
+        <link href="https://www.youtube.com/watch?v=IwK0jRemcnA"/>
+        <updated>2024-05-11T15:20:41.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kemenangan KKB tunjukkan kekuatan kerajaan gabungan - Loke]]></title>
+        <id>https://www.youtube.com/watch?v=8IVcw5UXgek</id>
+        <link href="https://www.youtube.com/watch?v=8IVcw5UXgek"/>
+        <updated>2024-05-11T15:16:51.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuala Kubu Baharu victory shows unity government's strength, says Loke]]></title>
+        <id>https://www.youtube.com/watch?v=2UBopx-Dnpw</id>
+        <link href="https://www.youtube.com/watch?v=2UBopx-Dnpw"/>
+        <updated>2024-05-11T15:14:53.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Kami menerima keputusan dengan hati terbuka' - Bersatu]]></title>
+        <id>https://www.youtube.com/watch?v=Y8mOr_E-Lz4</id>
+        <link href="https://www.youtube.com/watch?v=Y8mOr_E-Lz4"/>
+        <updated>2024-05-11T15:10:08.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azmin: Loss of votes for PN was lower compared to Harapan]]></title>
+        <id>https://www.youtube.com/watch?v=0JTf6brU3ag</id>
+        <link href="https://www.youtube.com/watch?v=0JTf6brU3ag"/>
+        <updated>2024-05-11T15:06:01.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penurunan undi PH lagi besar dari PN - Azmin]]></title>
+        <id>https://www.youtube.com/watch?v=GLNTJ2dToIc</id>
+        <link href="https://www.youtube.com/watch?v=GLNTJ2dToIc"/>
+        <updated>2024-05-11T14:56:01.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC officially declares Pang as winner of Kuala Kubu Baharu polls]]></title>
+        <id>https://www.youtube.com/watch?v=ueJV1Aq1y1Q</id>
+        <link href="https://www.youtube.com/watch?v=ueJV1Aq1y1Q"/>
+        <updated>2024-05-11T14:55:56.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rasmi: PH unggul di KKB, tinggalkan PN dengan majoriti 3869]]></title>
+        <id>https://www.youtube.com/watch?v=t3mFi5lwL_o</id>
+        <link href="https://www.youtube.com/watch?v=t3mFi5lwL_o"/>
+        <updated>2024-05-11T14:49:56.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[选委会宣布彭小桃胜选！1.4万票胜国盟1万票]]></title>
+        <id>https://www.youtube.com/watch?v=prM9nkfDAqA</id>
+        <link href="https://www.youtube.com/watch?v=prM9nkfDAqA"/>
+        <updated>2024-05-11T14:46:36.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE: Unofficial: Pakatan Harapan wins Kuala Kubu Bharu]]></title>
+        <id>https://www.youtube.com/watch?v=gTnf_hzDVAU</id>
+        <link href="https://www.youtube.com/watch?v=gTnf_hzDVAU"/>
+        <updated>2024-05-11T14:45:59.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I will represent all in KKB regardless of race, religion or political background, says Pang]]></title>
+        <id>https://www.youtube.com/watch?v=3DjUeK15FiM</id>
+        <link href="https://www.youtube.com/watch?v=3DjUeK15FiM"/>
+        <updated>2024-05-11T14:45:55.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【完整影片】雪州大臣恭喜彭小桃当选：人民拒绝"分裂代理人"]]></title>
+        <id>https://www.youtube.com/watch?v=Al7q2U9N4NQ</id>
+        <link href="https://www.youtube.com/watch?v=Al7q2U9N4NQ"/>
+        <updated>2024-05-11T14:43:22.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pang janji akan segera pindah ke KKB selepas menang]]></title>
+        <id>https://www.youtube.com/watch?v=8b5kpUoB-vg</id>
+        <link href="https://www.youtube.com/watch?v=8b5kpUoB-vg"/>
+        <updated>2024-05-11T14:43:13.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20240511電玩瘋手機遊戲週報]]></title>
+        <id>https://www.youtube.com/watch?v=nEA7V5vbmp8</id>
+        <link href="https://www.youtube.com/watch?v=nEA7V5vbmp8"/>
+        <updated>2024-05-11T12:00:07.000Z</updated>
+        <author>
+            <name>巴哈姆特電玩瘋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I REMADE My First Game 12 YEARS LATER!]]></title>
+        <id>https://www.youtube.com/watch?v=rpOzMQbiUVY</id>
+        <link href="https://www.youtube.com/watch?v=rpOzMQbiUVY"/>
+        <updated>2024-05-11T11:00:44.000Z</updated>
+        <author>
+            <name>The Cherno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宅男都是长不大的小孩子？喜欢动漫 & 二次元，我错了吗？【#不同温层EP36】]]></title>
+        <id>https://www.youtube.com/watch?v=HePMossaD4g</id>
+        <link href="https://www.youtube.com/watch?v=HePMossaD4g"/>
+        <updated>2024-05-11T11:00:09.000Z</updated>
+        <author>
+            <name>BBK Network</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why some English Teachers 'Escape' Korea]]></title>
+        <id>https://www.youtube.com/watch?v=csyn4INZDrY</id>
+        <link href="https://www.youtube.com/watch?v=csyn4INZDrY"/>
+        <updated>2024-05-11T09:00:32.000Z</updated>
+        <author>
+            <name>Asian Boss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm Siding With Apple - WAN Show May 10, 2024]]></title>
+        <id>https://www.youtube.com/watch?v=_yT68xCgQUE</id>
+        <link href="https://www.youtube.com/watch?v=_yT68xCgQUE"/>
+        <updated>2024-05-11T04:45:34.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Your GitHub Says About You | LIVE from Brazil]]></title>
         <id>https://www.youtube.com/watch?v=fPYSh680ZBY</id>
