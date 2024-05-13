@@ -24,3 +24,5 @@ sources:
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ULnkwvyofZ_sWrzRpyvrg # KiniTV
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ # ThePrimeTime
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC3ts8coMP645hZw9JSD3pqQ # Andreas Kling
+
+siteTitle: "the youtube rss reader"
