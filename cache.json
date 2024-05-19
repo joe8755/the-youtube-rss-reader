@@ -220,6 +220,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VVnGvlO56As",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VVnGvlO56As",
+          "publishedOn": "2024-05-18T17:00:38.000Z",
+          "wordCount": null,
+          "title": "I don’t want to clean this.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h5dsmj8LPNk",
           "author": null,
           "description": "",
@@ -2416,6 +2426,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAn8NrZ-J4CRfwodajqFYoQ",
       "siteUrl": "https://www.youtube.com/channel/UCAn8NrZ-J4CRfwodajqFYoQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hnO4rjhmzqg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hnO4rjhmzqg",
+          "publishedOn": "2024-05-18T16:15:02.000Z",
+          "wordCount": null,
+          "title": "He didn't see the Checkmate....",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uwAee46bNO8",
           "author": null,
@@ -5277,6 +5297,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Fvk8rctJ1Og",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fvk8rctJ1Og",
+          "publishedOn": "2024-05-18T14:00:07.000Z",
+          "wordCount": null,
+          "title": "The Future Of AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FcNPp3uYJrg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FcNPp3uYJrg",
+          "publishedOn": "2024-05-18T13:23:49.000Z",
+          "wordCount": null,
+          "title": "Your Next Backend Should Be Written In...",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=nGywRGepLQc",
           "author": null,
