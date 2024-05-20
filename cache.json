@@ -220,6 +220,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RyeRBwVK3tM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RyeRBwVK3tM",
+          "publishedOn": "2024-05-19T16:07:48.000Z",
+          "wordCount": null,
+          "title": "I was too poor to afford this",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VVnGvlO56As",
           "author": null,
           "description": "",
@@ -969,16 +979,6 @@
           "wordCount": null,
           "title": "韓國人有多卷？不睡覺不吃藥他們到底圖什麼？ ？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wpA8h_d0hEE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wpA8h_d0hEE",
-          "publishedOn": "2023-11-22T10:00:42.000Z",
-          "wordCount": null,
-          "title": "為什麼日本大久保公園這麼多美女？ ？公園少女究竟是...",
-          "imageUrl": null
         }
       ]
     },
@@ -1314,6 +1314,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBY6NwU6OpYQiPYR1urdF0g",
       "siteUrl": "https://www.youtube.com/channel/UCBY6NwU6OpYQiPYR1urdF0g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZQZYU-S1BYY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZQZYU-S1BYY",
+          "publishedOn": "2024-05-19T13:00:32.000Z",
+          "wordCount": null,
+          "title": "〈過期〉｜#伊蒙喬瑟夫 ｜喬瑟夫 ChillSeph",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lajz_voEhhw",
           "author": null,
@@ -5317,6 +5327,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XpGGio-A494",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XpGGio-A494",
+          "publishedOn": "2024-05-19T14:00:24.000Z",
+          "wordCount": null,
+          "title": "How I Chose My Side Project",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Xo-ddmNGjY8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xo-ddmNGjY8",
+          "publishedOn": "2024-05-19T12:47:08.000Z",
+          "wordCount": null,
+          "title": "React 19 Has A Compiler???",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Fvk8rctJ1Og",
           "author": null,
