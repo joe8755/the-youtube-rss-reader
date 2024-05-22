@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-05-22T00:52:42.145Z</updated>
+    <updated>2024-05-22T12:21:30.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UiTM 学生黑衣抗议非土著！ 了解柔佛袭警案背后的势力！ 安华挺巴恐遭美国制裁？【#新闻随便看 22/5】]]></title>
+        <id>https://www.youtube.com/watch?v=6sPJ09IpeEw</id>
+        <link href="https://www.youtube.com/watch?v=6sPJ09IpeEw"/>
+        <updated>2024-05-22T11:00:08.000Z</updated>
+        <author>
+            <name>BBK Network</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Korea the Most Depressed Country? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Nvz3wou4Jg8</id>
+        <link href="https://www.youtube.com/watch?v=Nvz3wou4Jg8"/>
+        <updated>2024-05-22T09:00:57.000Z</updated>
+        <author>
+            <name>Asian Boss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Infamous “4B Movement” in Korea Explained]]></title>
+        <id>https://www.youtube.com/watch?v=mNj3DLQRfKA</id>
+        <link href="https://www.youtube.com/watch?v=mNj3DLQRfKA"/>
+        <updated>2024-05-22T05:35:42.000Z</updated>
+        <author>
+            <name>Asian Boss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Always Bet On Big Corps  (They Will Never Let You Down)]]></title>
         <id>https://www.youtube.com/watch?v=EFfr3VdCRvs</id>
