@@ -230,6 +230,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-G-DByczbWA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-G-DByczbWA",
+          "publishedOn": "2024-05-25T17:00:13.000Z",
+          "wordCount": null,
+          "title": "I Bought 6 PC “Speed Up” Tools to See if They Work",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Xs0Exw7O7B0",
           "author": null,
           "description": "",
@@ -6467,6 +6477,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_Eg9cqOvPV8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_Eg9cqOvPV8",
+          "publishedOn": "2024-05-25T17:10:22.000Z",
+          "wordCount": null,
+          "title": "iTerm2 Adds AI - Internet Explodes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BvYeWWNsPNI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BvYeWWNsPNI",
+          "publishedOn": "2024-05-25T14:30:05.000Z",
+          "wordCount": null,
+          "title": "Becoming A Great Engineer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NaytZOiX3fs",
           "author": null,
