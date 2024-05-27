@@ -230,6 +230,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=40zn4odfxyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=40zn4odfxyc",
+          "publishedOn": "2024-05-26T16:58:59.000Z",
+          "wordCount": null,
+          "title": "Dare Me to Take This \"Laptop\" to Starbucks?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-G-DByczbWA",
           "author": null,
           "description": "",
@@ -6497,6 +6507,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gNYvmUOc12E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gNYvmUOc12E",
+          "publishedOn": "2024-05-26T17:03:36.000Z",
+          "wordCount": null,
+          "title": "Don't Code And Drink..",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_Eg9cqOvPV8",
           "author": null,
