@@ -230,6 +230,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=n2MuwWgKZ7Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n2MuwWgKZ7Q",
+          "publishedOn": "2024-05-27T17:04:23.000Z",
+          "wordCount": null,
+          "title": "Why I’ll be Taking VPN Sponsorships Again… and Why I Stopped",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=40zn4odfxyc",
           "author": null,
           "description": "",
@@ -2746,6 +2756,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAn8NrZ-J4CRfwodajqFYoQ",
       "siteUrl": "https://www.youtube.com/channel/UCAn8NrZ-J4CRfwodajqFYoQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=diJVJYNpOKk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=diJVJYNpOKk",
+          "publishedOn": "2024-05-27T18:00:27.000Z",
+          "wordCount": null,
+          "title": "He tried to mansplain chess to me",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=A7Ou7g3cPRY",
           "author": null,
@@ -6677,6 +6697,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_fBpFbU1hrQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_fBpFbU1hrQ",
+          "publishedOn": "2024-05-27T17:36:03.000Z",
+          "wordCount": null,
+          "title": "PHP Is Terrible...",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gNYvmUOc12E",
           "author": null,
