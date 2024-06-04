@@ -250,6 +250,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=G1aI7G9jevw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G1aI7G9jevw",
+          "publishedOn": "2024-06-03T17:11:40.000Z",
+          "wordCount": null,
+          "title": "AMD is About to CRUSH Intel… Just Like I Predicted",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iAJ-J1R7juY",
           "author": null,
           "description": "",
@@ -3136,6 +3146,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAn8NrZ-J4CRfwodajqFYoQ",
       "siteUrl": "https://www.youtube.com/channel/UCAn8NrZ-J4CRfwodajqFYoQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BHF7YdHFY6c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BHF7YdHFY6c",
+          "publishedOn": "2024-06-03T13:15:00.000Z",
+          "wordCount": null,
+          "title": "Real reason Botez's are always late",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DDrVuVrhQeg",
           "author": null,
@@ -8017,6 +8037,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ycJGIKLE9hg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ycJGIKLE9hg",
+          "publishedOn": "2024-06-03T18:25:15.000Z",
+          "wordCount": null,
+          "title": "Its Looking Bad For Cloudflare",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=h91mfQgmruc",
           "author": null,

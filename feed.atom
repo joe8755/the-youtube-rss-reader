@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-06-03T12:22:13.219Z</updated>
+    <updated>2024-06-04T00:54:07.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Its Looking Bad For Cloudflare]]></title>
+        <id>https://www.youtube.com/watch?v=ycJGIKLE9hg</id>
+        <link href="https://www.youtube.com/watch?v=ycJGIKLE9hg"/>
+        <updated>2024-06-03T18:25:15.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD is About to CRUSH Intel… Just Like I Predicted]]></title>
+        <id>https://www.youtube.com/watch?v=G1aI7G9jevw</id>
+        <link href="https://www.youtube.com/watch?v=G1aI7G9jevw"/>
+        <updated>2024-06-03T17:11:40.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real reason Botez's are always late]]></title>
+        <id>https://www.youtube.com/watch?v=BHF7YdHFY6c</id>
+        <link href="https://www.youtube.com/watch?v=BHF7YdHFY6c"/>
+        <updated>2024-06-03T13:15:00.000Z</updated>
+        <author>
+            <name>BotezLive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PKR kekal bertanding di PRK Sungai Bakap]]></title>
         <id>https://www.youtube.com/watch?v=0Pi62FJ5eDg</id>
