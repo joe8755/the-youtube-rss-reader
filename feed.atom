@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-06-04T12:21:33.943Z</updated>
+    <updated>2024-06-05T00:53:40.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This Might Be The Best Advice I Have Ever Seen]]></title>
+        <id>https://www.youtube.com/watch?v=5i_O6NLXYsM</id>
+        <link href="https://www.youtube.com/watch?v=5i_O6NLXYsM"/>
+        <updated>2024-06-04T18:56:27.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is NVIDIA’s new GPU]]></title>
+        <id>https://www.youtube.com/watch?v=7a0UGHvxrLw</id>
+        <link href="https://www.youtube.com/watch?v=7a0UGHvxrLw"/>
+        <updated>2024-06-04T18:24:57.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新作都在2025? 6月發表會大預測 強作一次點名！]]></title>
+        <id>https://www.youtube.com/watch?v=IiR_JICHago</id>
+        <link href="https://www.youtube.com/watch?v=IiR_JICHago"/>
+        <updated>2024-06-04T15:00:07.000Z</updated>
+        <author>
+            <name>巴哈姆特電玩瘋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anna tried to end my Career]]></title>
+        <id>https://www.youtube.com/watch?v=42idb6d5c54</id>
+        <link href="https://www.youtube.com/watch?v=42idb6d5c54"/>
+        <updated>2024-06-04T14:15:00.000Z</updated>
+        <author>
+            <name>BotezLive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《艾爾登法環 黃金樹幽影》Gameplay 探索「塔之鎮」貝瑞特 | 對戰「神獸舞獅」]]></title>
+        <id>https://www.youtube.com/watch?v=VsazifIUO2Y</id>
+        <link href="https://www.youtube.com/watch?v=VsazifIUO2Y"/>
+        <updated>2024-06-04T14:00:32.000Z</updated>
+        <author>
+            <name>巴哈姆特電玩瘋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《艾爾登法環 黃金樹幽影》Gameplay -初入「幽影之地」 |新版大樹守衛?]]></title>
+        <id>https://www.youtube.com/watch?v=2VnPQIjlSH4</id>
+        <link href="https://www.youtube.com/watch?v=2VnPQIjlSH4"/>
+        <updated>2024-06-04T14:00:02.000Z</updated>
+        <author>
+            <name>巴哈姆特電玩瘋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Terima kasih PM' - K'jaan pusat tak pernah sekat geran pada Kelantan - MB]]></title>
+        <id>https://www.youtube.com/watch?v=eWkmWNsSI5g</id>
+        <link href="https://www.youtube.com/watch?v=eWkmWNsSI5g"/>
+        <updated>2024-06-04T12:51:13.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KJ cadang PDRM terangkan pada rakyat tugas pengiring VIP]]></title>
+        <id>https://www.youtube.com/watch?v=rGDGldyLe00</id>
+        <link href="https://www.youtube.com/watch?v=rGDGldyLe00"/>
+        <updated>2024-06-04T12:37:51.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大马第一名模Amber Chia被小妹妹骂！🤣  #APABAKAR]]></title>
         <id>https://www.youtube.com/watch?v=ktuXxdI9gFs</id>
@@ -7834,15 +7906,6 @@
         <updated>2023-12-11T10:00:26.000Z</updated>
         <author>
             <name>纳豆奶奶</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現在竟然還能玩到光榮式的大航海遊戲？【就知道玩遊戲】]]></title>
-        <id>https://www.youtube.com/watch?v=EZaKzcJbcmM</id>
-        <link href="https://www.youtube.com/watch?v=EZaKzcJbcmM"/>
-        <updated>2023-12-08T04:46:56.000Z</updated>
-        <author>
-            <name>Gamker攻壳官方频道</name>
         </author>
     </entry>
 </feed>
