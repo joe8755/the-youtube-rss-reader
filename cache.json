@@ -260,6 +260,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=N68lDsSxEFc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N68lDsSxEFc",
+          "publishedOn": "2024-06-05T17:18:19.000Z",
+          "wordCount": null,
+          "title": "Noctua stole my idea!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7a0UGHvxrLw",
           "author": null,
           "description": "",
@@ -3246,6 +3256,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAn8NrZ-J4CRfwodajqFYoQ",
       "siteUrl": "https://www.youtube.com/channel/UCAn8NrZ-J4CRfwodajqFYoQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zWWtN2BoZmE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zWWtN2BoZmE",
+          "publishedOn": "2024-06-05T15:15:04.000Z",
+          "wordCount": null,
+          "title": "Bro thinks he’s Hikaru",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=42idb6d5c54",
           "author": null,
@@ -8487,6 +8507,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZCsDnC7UBkI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZCsDnC7UBkI",
+          "publishedOn": "2024-06-05T19:21:15.000Z",
+          "wordCount": null,
+          "title": "What Makes A Great Developer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5i_O6NLXYsM",
           "author": null,
