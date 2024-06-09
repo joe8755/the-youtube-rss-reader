@@ -260,6 +260,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C0bEew9dqNs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C0bEew9dqNs",
+          "publishedOn": "2024-06-08T18:05:29.000Z",
+          "wordCount": null,
+          "title": "Snapdragon just obsoleted Intel and AMD",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=juOugTO1EzU",
           "author": null,
           "description": "",
@@ -3367,6 +3377,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCAn8NrZ-J4CRfwodajqFYoQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ftX5ROTFFbc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ftX5ROTFFbc",
+          "publishedOn": "2024-06-09T00:12:27.000Z",
+          "wordCount": null,
+          "title": "ROUND 3 ║ CAROLINAS CLASSIC IN CHARLOTTE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=m2EkXKsxhUk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m2EkXKsxhUk",
+          "publishedOn": "2024-06-08T14:15:02.000Z",
+          "wordCount": null,
+          "title": "Playing Chess with cheats on",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0R7DpRaXmI4",
           "author": null,
           "description": "",
@@ -4140,6 +4170,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9ULnkwvyofZ_sWrzRpyvrg",
       "siteUrl": "https://www.youtube.com/channel/UC9ULnkwvyofZ_sWrzRpyvrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vkctU_AUmKA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vkctU_AUmKA",
+          "publishedOn": "2024-06-08T18:01:58.000Z",
+          "wordCount": null,
+          "title": "'Jangan main-main' - Pemuda Umno Johor beri amaran pada Adun DAP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EO9XcXQms6g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EO9XcXQms6g",
+          "publishedOn": "2024-06-08T17:35:21.000Z",
+          "wordCount": null,
+          "title": "PRK Sungai Bakap: Semua parti komponen BN setuju bantu kempen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ApSIlpBJ3P8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ApSIlpBJ3P8",
+          "publishedOn": "2024-06-08T17:19:28.000Z",
+          "wordCount": null,
+          "title": "'Johor menjadi rujukan utaman BN' - Zambry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JZBBsh4tSjs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JZBBsh4tSjs",
+          "publishedOn": "2024-06-08T16:40:11.000Z",
+          "wordCount": null,
+          "title": "Konvensyen BN Johor lulus lima resolusi",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jxDEQQBIFoA",
           "author": null,
