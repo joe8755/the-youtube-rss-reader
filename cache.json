@@ -747,6 +747,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCO2x-p9gg9TLKneXlibGR7w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C0Yu-hkk1c8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C0Yu-hkk1c8",
+          "publishedOn": "2024-06-11T14:00:14.000Z",
+          "wordCount": null,
+          "title": "Apple's Most Jam-Packed Keynote Ever!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IJV9WUNOGVo",
           "author": null,
           "description": "",
@@ -3546,6 +3556,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAn8NrZ-J4CRfwodajqFYoQ",
       "siteUrl": "https://www.youtube.com/channel/UCAn8NrZ-J4CRfwodajqFYoQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1li8NB2mTJA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1li8NB2mTJA",
+          "publishedOn": "2024-06-11T13:15:00.000Z",
+          "wordCount": null,
+          "title": "We tried THE BOMB hot sauce",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=g7vOzvqcW10",
           "author": null,
@@ -9697,6 +9717,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=B4aeIRt3Ka4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B4aeIRt3Ka4",
+          "publishedOn": "2024-06-11T12:30:07.000Z",
+          "wordCount": null,
+          "title": "I Survived A DDOS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XBUsRVepF-8",
           "author": null,
