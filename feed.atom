@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-06-13T12:22:09.339Z</updated>
+    <updated>2024-06-14T00:54:09.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Kids DESTROY A Chess Master...]]></title>
+        <id>https://www.youtube.com/watch?v=-e7xn19xJGE</id>
+        <link href="https://www.youtube.com/watch?v=-e7xn19xJGE"/>
+        <updated>2024-06-13T19:15:00.000Z</updated>
+        <author>
+            <name>BotezLive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is a Lie.]]></title>
+        <id>https://www.youtube.com/watch?v=nGIpdiQrFDU</id>
+        <link href="https://www.youtube.com/watch?v=nGIpdiQrFDU"/>
+        <updated>2024-06-13T17:00:00.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quake In 13kb Of Javascript]]></title>
+        <id>https://www.youtube.com/watch?v=XgNnfqodD5s</id>
+        <link href="https://www.youtube.com/watch?v=XgNnfqodD5s"/>
+        <updated>2024-06-13T16:26:08.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This kid destroyed my ego]]></title>
+        <id>https://www.youtube.com/watch?v=1ArlaP0NnII</id>
+        <link href="https://www.youtube.com/watch?v=1ArlaP0NnII"/>
+        <updated>2024-06-13T14:15:00.000Z</updated>
+        <author>
+            <name>BotezLive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《七龍珠 電光炸裂！ZERO》「自訂戰鬥」編輯各式各樣你想要的劇情及戰鬥條件]]></title>
+        <id>https://www.youtube.com/watch?v=zShTSFr8ffw</id>
+        <link href="https://www.youtube.com/watch?v=zShTSFr8ffw"/>
+        <updated>2024-06-13T14:00:49.000Z</updated>
+        <author>
+            <name>巴哈姆特電玩瘋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《七龍珠 電光炸裂！ZERO》在「情節戰鬥」中親自體驗那些經典的戰鬥場面]]></title>
+        <id>https://www.youtube.com/watch?v=tVRC723qoHI</id>
+        <link href="https://www.youtube.com/watch?v=tVRC723qoHI"/>
+        <updated>2024-06-13T14:00:44.000Z</updated>
+        <author>
+            <name>巴哈姆特電玩瘋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《七龍珠 電光炸裂！ZERO》超燃戰鬥場面➕超大角色池供你選擇🔥]]></title>
+        <id>https://www.youtube.com/watch?v=5oZADIETdD8</id>
+        <link href="https://www.youtube.com/watch?v=5oZADIETdD8"/>
+        <updated>2024-06-13T14:00:07.000Z</updated>
+        <author>
+            <name>巴哈姆特電玩瘋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Mungkin saya perlu berubah jadi sombong' - Faisal Halim redha]]></title>
+        <id>https://www.youtube.com/watch?v=cQ5sXVnSWm8</id>
+        <link href="https://www.youtube.com/watch?v=cQ5sXVnSWm8"/>
+        <updated>2024-06-13T13:04:44.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Saya sanggup hilang gaji puluh ribu asalkan keluarga selamat' - Faisal Halim menangis]]></title>
+        <id>https://www.youtube.com/watch?v=XjXsyETKjM8</id>
+        <link href="https://www.youtube.com/watch?v=XjXsyETKjM8"/>
+        <updated>2024-06-13T12:53:13.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tak perlulah kata Bersih tak relevan - bidas KJ]]></title>
+        <id>https://www.youtube.com/watch?v=QrRtT6595Ss</id>
+        <link href="https://www.youtube.com/watch?v=QrRtT6595Ss"/>
+        <updated>2024-06-13T12:41:41.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Took a 10 Year Old Camera on my First Trip to New York - Does Gear Matter?]]></title>
+        <id>https://www.youtube.com/watch?v=4W3I6iEsD2A</id>
+        <link href="https://www.youtube.com/watch?v=4W3I6iEsD2A"/>
+        <updated>2024-06-13T12:06:59.000Z</updated>
+        <author>
+            <name>Gary Explains</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《Kinitv快报》聘新国英文老师? 拉菲达呛安华；伊NGO：修宪允未成年自行改教- 2024年6月13日]]></title>
         <id>https://www.youtube.com/watch?v=V19LEzqHMvU</id>
