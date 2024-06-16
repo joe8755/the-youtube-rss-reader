@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-06-15T12:20:39.979Z</updated>
+    <updated>2024-06-16T00:58:35.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop Celebrating Incompetence]]></title>
+        <id>https://www.youtube.com/watch?v=9CF9jx2Hhws</id>
+        <link href="https://www.youtube.com/watch?v=9CF9jx2Hhws"/>
+        <updated>2024-06-15T19:39:28.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Gamer Camper Van]]></title>
+        <id>https://www.youtube.com/watch?v=xKT6WiI6H7E</id>
+        <link href="https://www.youtube.com/watch?v=xKT6WiI6H7E"/>
+        <updated>2024-06-15T16:59:21.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Video Penuh] Ucapan Idris Ahmad di Majlis Pengumuman Calon PN PRK Sg Bakap]]></title>
+        <id>https://www.youtube.com/watch?v=yGBTPOCpjWk</id>
+        <link href="https://www.youtube.com/watch?v=yGBTPOCpjWk"/>
+        <updated>2024-06-15T16:56:41.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Video Penuh] Ucapan Radzi Jidin di Majlis Pengumuman Calon PN PRK Sg Bakap]]></title>
+        <id>https://www.youtube.com/watch?v=k4h2YEQpMHs</id>
+        <link href="https://www.youtube.com/watch?v=k4h2YEQpMHs"/>
+        <updated>2024-06-15T16:46:46.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PN pertaruh Naib YDP PAS Nibong Tebal jadi calon PRK Sungai Bakap]]></title>
+        <id>https://www.youtube.com/watch?v=vwC_oyPR4xk</id>
+        <link href="https://www.youtube.com/watch?v=vwC_oyPR4xk"/>
+        <updated>2024-06-15T16:30:56.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wan Azizah sahkan ibu Fadhlina Sidek dalam kritikal]]></title>
+        <id>https://www.youtube.com/watch?v=fxoMkZSbkcs</id>
+        <link href="https://www.youtube.com/watch?v=fxoMkZSbkcs"/>
+        <updated>2024-06-15T15:55:51.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20240615 電玩瘋手機遊戲週報]]></title>
         <id>https://www.youtube.com/watch?v=UJ-P5MIdRa0</id>
