@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-06-17T12:22:22.969Z</updated>
+    <updated>2024-06-18T00:54:57.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[268% Higher Failure Rates For Agile]]></title>
+        <id>https://www.youtube.com/watch?v=w5Wr3j4h_1I</id>
+        <link href="https://www.youtube.com/watch?v=w5Wr3j4h_1I"/>
+        <updated>2024-06-17T17:38:52.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Experts React to Bad & Great Tech in Movies]]></title>
+        <id>https://www.youtube.com/watch?v=P6rH5b479qw</id>
+        <link href="https://www.youtube.com/watch?v=P6rH5b479qw"/>
+        <updated>2024-06-17T17:08:26.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I wasn't too happy with 'anti-hopping' law, says Azhar]]></title>
         <id>https://www.youtube.com/watch?v=psTsLIhS1HU</id>
@@ -10327,15 +10345,6 @@
         <updated>2023-12-21T15:25:15.000Z</updated>
         <author>
             <name>喬瑟夫 ChillSeph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3個月花一億日本撈女讓男人傾家蕩產？背後的真相是？]]></title>
-        <id>https://www.youtube.com/watch?v=hNrOABdFlj0</id>
-        <link href="https://www.youtube.com/watch?v=hNrOABdFlj0"/>
-        <updated>2023-12-21T10:00:29.000Z</updated>
-        <author>
-            <name>纳豆奶奶</name>
         </author>
     </entry>
 </feed>

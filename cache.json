@@ -270,6 +270,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=P6rH5b479qw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P6rH5b479qw",
+          "publishedOn": "2024-06-17T17:08:26.000Z",
+          "wordCount": null,
+          "title": "Tech Experts React to Bad & Great Tech in Movies",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=esQLFQugzmI",
           "author": null,
           "description": "",
@@ -1308,16 +1318,6 @@
           "publishedOn": "2023-12-29T10:45:06.000Z",
           "wordCount": null,
           "title": "為什麼日本國民女星熱衷下海？日式自我毀滅式復仇的地獄與救贖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hNrOABdFlj0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hNrOABdFlj0",
-          "publishedOn": "2023-12-21T10:00:29.000Z",
-          "wordCount": null,
-          "title": "3個月花一億日本撈女讓男人傾家蕩產？背後的真相是？",
           "imageUrl": null
         }
       ]
@@ -10887,6 +10887,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=w5Wr3j4h_1I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w5Wr3j4h_1I",
+          "publishedOn": "2024-06-17T17:38:52.000Z",
+          "wordCount": null,
+          "title": "268% Higher Failure Rates For Agile",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jCrUfzOhHYY",
           "author": null,
