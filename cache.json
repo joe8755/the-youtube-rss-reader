@@ -280,6 +280,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NH2BBt3pNG8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NH2BBt3pNG8",
+          "publishedOn": "2024-06-23T20:10:50.000Z",
+          "wordCount": null,
+          "title": "First Person That Says Hi Gets Free PC",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zyUqg2FBO-I",
           "author": null,
           "description": "",
@@ -3305,6 +3315,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1r3izmM5-Pf1NT55Yo1alA",
       "siteUrl": "https://www.youtube.com/channel/UC1r3izmM5-Pf1NT55Yo1alA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Y32SLqS_jdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y32SLqS_jdY",
+          "publishedOn": "2024-06-23T13:00:33.000Z",
+          "wordCount": null,
+          "title": "屠龍刀其實長得很無聊！ #shorts #黑嘉嘉 #相聲瓦舍",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CPCCSSmDaz0",
           "author": null,
@@ -12217,6 +12237,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HDMwS14p9cg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HDMwS14p9cg",
+          "publishedOn": "2024-06-23T16:06:11.000Z",
+          "wordCount": null,
+          "title": "I Learned Haskell In 15 Years",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2M3vRWSVRV8",
           "author": null,
