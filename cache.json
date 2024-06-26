@@ -280,6 +280,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wTuOasmssE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wTuOasmssE0",
+          "publishedOn": "2024-06-25T17:00:36.000Z",
+          "wordCount": null,
+          "title": "My Wifi is Better than Yours",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4RLkkVMVHj4",
           "author": null,
           "description": "",
@@ -1408,16 +1418,6 @@
           "publishedOn": "2024-01-07T12:01:08.000Z",
           "wordCount": null,
           "title": "一個農村女孩需要努力幾年才能擁有一座圖書館？？？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ygUhPin_SoY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ygUhPin_SoY",
-          "publishedOn": "2023-12-29T10:45:06.000Z",
-          "wordCount": null,
-          "title": "為什麼日本國民女星熱衷下海？日式自我毀滅式復仇的地獄與救贖",
           "imageUrl": null
         }
       ]
@@ -4226,6 +4226,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAn8NrZ-J4CRfwodajqFYoQ",
       "siteUrl": "https://www.youtube.com/channel/UCAn8NrZ-J4CRfwodajqFYoQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Cg1Y745At-c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cg1Y745At-c",
+          "publishedOn": "2024-06-25T19:22:58.000Z",
+          "wordCount": null,
+          "title": "TOURNAMENT CHESS GRIND | Round 5  | Cracow International Chess",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=dRyZSOHA_2g",
           "author": null,
@@ -12657,6 +12667,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ",
       "siteUrl": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=34ILBZmIeIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=34ILBZmIeIY",
+          "publishedOn": "2024-06-25T15:00:02.000Z",
+          "wordCount": null,
+          "title": "The Harsh Reality Of AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=k0XuoK132z4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k0XuoK132z4",
+          "publishedOn": "2024-06-25T13:30:51.000Z",
+          "wordCount": null,
+          "title": "I Will Piledrive You If You Say AI Again | Prime Reacts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hIkMs10nHl0",
           "author": null,

@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-06-25T12:21:54.936Z</updated>
+    <updated>2024-06-26T00:54:34.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TOURNAMENT CHESS GRIND | Round 5  | Cracow International Chess]]></title>
+        <id>https://www.youtube.com/watch?v=Cg1Y745At-c</id>
+        <link href="https://www.youtube.com/watch?v=Cg1Y745At-c"/>
+        <updated>2024-06-25T19:22:58.000Z</updated>
+        <author>
+            <name>BotezLive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Wifi is Better than Yours]]></title>
+        <id>https://www.youtube.com/watch?v=wTuOasmssE0</id>
+        <link href="https://www.youtube.com/watch?v=wTuOasmssE0"/>
+        <updated>2024-06-25T17:00:36.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Harsh Reality Of AI]]></title>
+        <id>https://www.youtube.com/watch?v=34ILBZmIeIY</id>
+        <link href="https://www.youtube.com/watch?v=34ILBZmIeIY"/>
+        <updated>2024-06-25T15:00:02.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Will Piledrive You If You Say AI Again | Prime Reacts]]></title>
+        <id>https://www.youtube.com/watch?v=k0XuoK132z4</id>
+        <link href="https://www.youtube.com/watch?v=k0XuoK132z4"/>
+        <updated>2024-06-25T13:30:51.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《Kinitv快报》郭素沁反对伊斯兰化浮罗交怡；安华笑称或需改组内阁自救 - 2024年6月25日]]></title>
         <id>https://www.youtube.com/watch?v=SqWrok3Yej0</id>
@@ -12001,15 +12037,6 @@
         <updated>2023-12-29T13:00:31.000Z</updated>
         <author>
             <name>嘉嘉老師GO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼日本國民女星熱衷下海？日式自我毀滅式復仇的地獄與救贖]]></title>
-        <id>https://www.youtube.com/watch?v=ygUhPin_SoY</id>
-        <link href="https://www.youtube.com/watch?v=ygUhPin_SoY"/>
-        <updated>2023-12-29T10:45:06.000Z</updated>
-        <author>
-            <name>纳豆奶奶</name>
         </author>
     </entry>
 </feed>
