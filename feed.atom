@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-06-27T12:22:22.282Z</updated>
+    <updated>2024-06-28T00:54:53.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WINNING A CHESS TOURNAMENT | Round 7 | Cracow International Chess]]></title>
+        <id>https://www.youtube.com/watch?v=Gz5EOpllY0A</id>
+        <link href="https://www.youtube.com/watch?v=Gz5EOpllY0A"/>
+        <updated>2024-06-27T19:04:19.000Z</updated>
+        <author>
+            <name>BotezLive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kehadiran anggota polis pantau PN di Sg Bakap melampau - Tuan Ibrahim]]></title>
+        <id>https://www.youtube.com/watch?v=zPCh-kF9ecw</id>
+        <link href="https://www.youtube.com/watch?v=zPCh-kF9ecw"/>
+        <updated>2024-06-27T13:41:02.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Langkah Muar' 200km Syed Saddiq bermula pagi esok, dijangka tamat pada Isnin]]></title>
+        <id>https://www.youtube.com/watch?v=EU9f85Yetn0</id>
+        <link href="https://www.youtube.com/watch?v=EU9f85Yetn0"/>
+        <updated>2024-06-27T13:15:28.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real 10x Engineer]]></title>
+        <id>https://www.youtube.com/watch?v=Un_zaHnpTH0</id>
+        <link href="https://www.youtube.com/watch?v=Un_zaHnpTH0"/>
+        <updated>2024-06-27T13:13:07.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果把運氣加入圍棋，六指淵能否贏過黑嘉嘉？ft. @huber0203]]></title>
+        <id>https://www.youtube.com/watch?v=2ZsKgVpsRvw</id>
+        <link href="https://www.youtube.com/watch?v=2ZsKgVpsRvw"/>
+        <updated>2024-06-27T13:00:03.000Z</updated>
+        <author>
+            <name>嘉嘉老師GO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Kinitv快报》希盟候选人称华裔是补选造王者；应悬空团结党议席？议长无需21天？ - 2024年6月27日]]></title>
+        <id>https://www.youtube.com/watch?v=mnSDoRsSa-4</id>
+        <link href="https://www.youtube.com/watch?v=mnSDoRsSa-4"/>
+        <updated>2024-06-27T12:27:26.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mohon menghadap Sultan S'gor, 'Parah, PM pun kena tukar..', Demo anti-Anwar diteruskan|SEKILAS FAKTA]]></title>
         <id>https://www.youtube.com/watch?v=Cik_UzmEOz0</id>
