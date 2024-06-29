@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-06-29T00:54:00.708Z</updated>
+    <updated>2024-06-29T12:21:15.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weak Pointers in C++ (std::weak_ptr)]]></title>
+        <id>https://www.youtube.com/watch?v=M0GLQEfplxs</id>
+        <link href="https://www.youtube.com/watch?v=M0GLQEfplxs"/>
+        <updated>2024-06-29T12:00:19.000Z</updated>
+        <author>
+            <name>The Cherno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20240629 電玩瘋手機遊戲週報]]></title>
+        <id>https://www.youtube.com/watch?v=mD2yiGzrL30</id>
+        <link href="https://www.youtube.com/watch?v=mD2yiGzrL30"/>
+        <updated>2024-06-29T12:00:06.000Z</updated>
+        <author>
+            <name>巴哈姆特電玩瘋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FINAL ROUND!! | Round 9 | Cracow International Chess]]></title>
+        <id>https://www.youtube.com/watch?v=ZczTToeLoK0</id>
+        <link href="https://www.youtube.com/watch?v=ZczTToeLoK0"/>
+        <updated>2024-06-29T11:18:31.000Z</updated>
+        <author>
+            <name>BotezLive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[皇室都救不了？碧桂园的森林之城为什么会失败？安华可以为其带来新曙光？【#课本不会教的历史 EP18】]]></title>
+        <id>https://www.youtube.com/watch?v=ANzH-uGFr0E</id>
+        <link href="https://www.youtube.com/watch?v=ANzH-uGFr0E"/>
+        <updated>2024-06-29T11:00:07.000Z</updated>
+        <author>
+            <name>BBK Network</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PN campaign in Sg Bakap a lost cause, says Rafizi]]></title>
+        <id>https://www.youtube.com/watch?v=2kUXvwzF5GU</id>
+        <link href="https://www.youtube.com/watch?v=2kUXvwzF5GU"/>
+        <updated>2024-06-29T09:40:13.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kami juga 'surprise' dengan hutang yang Muhyiddin tinggalkan - Rafizi]]></title>
+        <id>https://www.youtube.com/watch?v=oYohd9REJBU</id>
+        <link href="https://www.youtube.com/watch?v=oYohd9REJBU"/>
+        <updated>2024-06-29T09:09:02.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Chinese think the US is Truly Free? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=95VcF01AC1c</id>
+        <link href="https://www.youtube.com/watch?v=95VcF01AC1c"/>
+        <updated>2024-06-29T09:00:07.000Z</updated>
+        <author>
+            <name>Asian Boss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿兹敏声称曹观友与林冠英不和，无法为槟州子民谋福]]></title>
+        <id>https://www.youtube.com/watch?v=xoRTXP6JQ54</id>
+        <link href="https://www.youtube.com/watch?v=xoRTXP6JQ54"/>
+        <updated>2024-06-29T08:22:37.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govt doesn't neglect position of Islam - Asyraf]]></title>
+        <id>https://www.youtube.com/watch?v=WM-Qt2O7hYw</id>
+        <link href="https://www.youtube.com/watch?v=WM-Qt2O7hYw"/>
+        <updated>2024-06-29T07:24:13.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asyraf: Kerajaan tak pernah abai kedudukan Islam]]></title>
+        <id>https://www.youtube.com/watch?v=X6xHNxgqMbc</id>
+        <link href="https://www.youtube.com/watch?v=X6xHNxgqMbc"/>
+        <updated>2024-06-29T07:22:12.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asyraf denies 11 BN MPs quitting govt coalition]]></title>
+        <id>https://www.youtube.com/watch?v=9j5FiNwy24o</id>
+        <link href="https://www.youtube.com/watch?v=9j5FiNwy24o"/>
+        <updated>2024-06-29T07:03:09.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Satu pencen, ganti KWSP atau status quo - Apa kata MP tentang sistem mereka?]]></title>
         <id>https://www.youtube.com/watch?v=IjWHB3UNSzQ</id>
@@ -12730,15 +12829,6 @@
         <updated>2024-01-07T12:01:08.000Z</updated>
         <author>
             <name>纳豆奶奶</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SerenityOS update (December 2023)]]></title>
-        <id>https://www.youtube.com/watch?v=ZUBlEzjAZmo</id>
-        <link href="https://www.youtube.com/watch?v=ZUBlEzjAZmo"/>
-        <updated>2024-01-01T20:36:48.000Z</updated>
-        <author>
-            <name>Andreas Kling</name>
         </author>
     </entry>
 </feed>

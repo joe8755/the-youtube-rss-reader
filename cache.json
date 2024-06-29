@@ -1124,6 +1124,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M0GLQEfplxs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M0GLQEfplxs",
+          "publishedOn": "2024-06-29T12:00:19.000Z",
+          "wordCount": null,
+          "title": "Weak Pointers in C++ (std::weak_ptr)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EK4QSO_qO9Q",
           "author": null,
           "description": "",
@@ -1477,6 +1487,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2-_WWPT_124iN6jiym4fOw",
       "siteUrl": "https://www.youtube.com/channel/UC2-_WWPT_124iN6jiym4fOw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=95VcF01AC1c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=95VcF01AC1c",
+          "publishedOn": "2024-06-29T09:00:07.000Z",
+          "wordCount": null,
+          "title": "Do Chinese think the US is Truly Free? #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wRw6Ly-4QEU",
           "author": null,
@@ -2461,6 +2481,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4c-wTOqEID-_vH4MhNs06w",
       "siteUrl": "https://www.youtube.com/channel/UC4c-wTOqEID-_vH4MhNs06w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mD2yiGzrL30",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mD2yiGzrL30",
+          "publishedOn": "2024-06-29T12:00:06.000Z",
+          "wordCount": null,
+          "title": "20240629 電玩瘋手機遊戲週報",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jutpS6wW2Ds",
           "author": null,
@@ -4357,6 +4387,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCAn8NrZ-J4CRfwodajqFYoQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZczTToeLoK0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZczTToeLoK0",
+          "publishedOn": "2024-06-29T11:18:31.000Z",
+          "wordCount": null,
+          "title": "FINAL ROUND!! | Round 9 | Cracow International Chess",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HB2oYyfmOHo",
           "author": null,
           "description": "",
@@ -4964,6 +5004,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC0SJCeL0QG4BH_KQALjQE-Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ANzH-uGFr0E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ANzH-uGFr0E",
+          "publishedOn": "2024-06-29T11:00:07.000Z",
+          "wordCount": null,
+          "title": "皇室都救不了？碧桂园的森林之城为什么会失败？安华可以为其带来新曙光？【#课本不会教的历史 EP18】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qDH7Px7JroY",
           "author": null,
           "description": "",
@@ -5520,6 +5570,66 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9ULnkwvyofZ_sWrzRpyvrg",
       "siteUrl": "https://www.youtube.com/channel/UC9ULnkwvyofZ_sWrzRpyvrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2kUXvwzF5GU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2kUXvwzF5GU",
+          "publishedOn": "2024-06-29T09:40:13.000Z",
+          "wordCount": null,
+          "title": "PN campaign in Sg Bakap a lost cause, says Rafizi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oYohd9REJBU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oYohd9REJBU",
+          "publishedOn": "2024-06-29T09:09:02.000Z",
+          "wordCount": null,
+          "title": "Kami juga 'surprise' dengan hutang yang Muhyiddin tinggalkan - Rafizi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xoRTXP6JQ54",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xoRTXP6JQ54",
+          "publishedOn": "2024-06-29T08:22:37.000Z",
+          "wordCount": null,
+          "title": "阿兹敏声称曹观友与林冠英不和，无法为槟州子民谋福",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WM-Qt2O7hYw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WM-Qt2O7hYw",
+          "publishedOn": "2024-06-29T07:24:13.000Z",
+          "wordCount": null,
+          "title": "Govt doesn't neglect position of Islam - Asyraf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=X6xHNxgqMbc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X6xHNxgqMbc",
+          "publishedOn": "2024-06-29T07:22:12.000Z",
+          "wordCount": null,
+          "title": "Asyraf: Kerajaan tak pernah abai kedudukan Islam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9j5FiNwy24o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9j5FiNwy24o",
+          "publishedOn": "2024-06-29T07:03:09.000Z",
+          "wordCount": null,
+          "title": "Asyraf denies 11 BN MPs quitting govt coalition",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IjWHB3UNSzQ",
           "author": null,
@@ -14262,16 +14372,6 @@
           "publishedOn": "2024-01-31T18:52:04.000Z",
           "wordCount": null,
           "title": "Ladybird browser update (January 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZUBlEzjAZmo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZUBlEzjAZmo",
-          "publishedOn": "2024-01-01T20:36:48.000Z",
-          "wordCount": null,
-          "title": "SerenityOS update (December 2023)",
           "imageUrl": null
         }
       ]
