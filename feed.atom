@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joe8755.github.io/the-youtube-rss-reader/index.html</id>
     <title>the youtube rss reader</title>
-    <updated>2024-06-29T12:21:15.274Z</updated>
+    <updated>2024-06-30T00:59:24.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joe8755.github.io/the-youtube-rss-reader/index.html"/>
     <link rel="self" href="https://joe8755.github.io/the-youtube-rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Bought 25 Million Computer Viruses]]></title>
+        <id>https://www.youtube.com/watch?v=7inhRWxQMFk</id>
+        <link href="https://www.youtube.com/watch?v=7inhRWxQMFk"/>
+        <updated>2024-06-29T17:29:02.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1000 Leetcode Questions]]></title>
+        <id>https://www.youtube.com/watch?v=iC7OyqRHvi8</id>
+        <link href="https://www.youtube.com/watch?v=iC7OyqRHvi8"/>
+        <updated>2024-06-29T15:45:27.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Burnout Experience]]></title>
+        <id>https://www.youtube.com/watch?v=KEWV5yaj_2o</id>
+        <link href="https://www.youtube.com/watch?v=KEWV5yaj_2o"/>
+        <updated>2024-06-29T13:50:07.000Z</updated>
+        <author>
+            <name>ThePrimeTime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[约150人首相官邸外集会，高呼"安华下台"]]></title>
+        <id>https://www.youtube.com/watch?v=aHwwnTjpFVo</id>
+        <link href="https://www.youtube.com/watch?v=aHwwnTjpFVo"/>
+        <updated>2024-06-29T13:36:38.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chess Master Goes Insane]]></title>
+        <id>https://www.youtube.com/watch?v=uVngbnSjOOA</id>
+        <link href="https://www.youtube.com/watch?v=uVngbnSjOOA"/>
+        <updated>2024-06-29T13:30:24.000Z</updated>
+        <author>
+            <name>BotezLive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-Anwar protesters rally at Seri Perdana to demand change]]></title>
+        <id>https://www.youtube.com/watch?v=BUqYNlJNi_o</id>
+        <link href="https://www.youtube.com/watch?v=BUqYNlJNi_o"/>
+        <updated>2024-06-29T13:09:42.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kira-kira 150 berhimpun protes Anwar depan Seri Perdana]]></title>
+        <id>https://www.youtube.com/watch?v=dYoor1SIYpg</id>
+        <link href="https://www.youtube.com/watch?v=dYoor1SIYpg"/>
+        <updated>2024-06-29T13:07:49.000Z</updated>
+        <author>
+            <name>KiniTV</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weak Pointers in C++ (std::weak_ptr)]]></title>
         <id>https://www.youtube.com/watch?v=M0GLQEfplxs</id>
